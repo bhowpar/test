@@ -8,7 +8,7 @@ function getthecount {
 
 count=$(getthecount)
 echo "Hello! Nice to meet you at my game! =)"
-echo "Guess the number of files in my current directory, please"
+echo "Guess the number of files in my current directory"
 read num
 
 while [[ $count -ne $num ]]
