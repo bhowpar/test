@@ -3,7 +3,7 @@
 ## Task was given at Coursera.org at course [The Unix Workbench](https://www.coursera.org/learn/unix)
 
 1. The date and time at which make was run:
-2020-05-15 08:14:00
+2020-05-15 12:16:47
 
 2. The number of lines of code contained in guessinggame.sh is:
 28
@@ -23,7 +23,6 @@
 1. The title of the project.
 2. The date and time at which make was run.
 3. The number of lines of code contained in guessinggame.sh.
-
 
 This file was generated with Markdown style from makefile.
 
