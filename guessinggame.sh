@@ -15,11 +15,11 @@ while [[ $count -ne $num ]]
 do
   if [[ $count -gt $num ]]
   then
-    echo "It's too small! Try another number, please"
+    echo "It's too small! Try another number,please"
     read num
   elif [[ $count -lt $num ]]
   then
-    echo "It's too much! Try another number, please"
+    echo "It's too much! Try another number,please"
     read num
   fi
 done
